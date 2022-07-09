@@ -1,8 +1,13 @@
-   Hi there 👋
-   i am Mani , im a student at iran
-- 🌱 I’m currently learning JavaScript
-i made some HTML,CSS and javaScript simple Project
-my favorit css framework is Tailwindcss becuese they have very good coustomize And they can moblie first code
+Hi there 👋
+👀 i am Mani , im a student.
+🌱 I’m currently learning JavaScript, Svelte
+🦿  I’m made some HTML,CSS and javaScript simple Projects
 
-now i learning about svelte i think in feuter is verygood framework
-
+Skills:
+👀 Programming language: JavaScript
+💻 IDE: Visual Studio
+⚙️ Relational database: MS SQL Server
+📚 UI frameworks and libraries: Svelte.JS , React.JS, Bootstrap , Tailwind
+🔎 Source control: Git.
+⚒️ Pretty familiar  tools like Github
+🧮 Object oriented programing
