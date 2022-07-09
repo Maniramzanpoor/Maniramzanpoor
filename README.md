@@ -1,6 +1,8 @@
 Hi there 👋
 👀 i am Mani , im a student.
+
 🌱 I’m currently learning JavaScript, Svelte
+
 🦿  I’m made some HTML,CSS and javaScript simple Projects
 
 Skills:
